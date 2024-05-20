@@ -40,5 +40,5 @@ show_local_mp4_video('outputs/PHALP_Bokator_anim.mp4', width=960, height=540)
 
 ## Результаты
 
-Ссылка на первый пример результатов https://drive.google.com/file/d/1v08HjQZdp-yLasWkEjQp3p21Pc_SFJvi/view?usp=sharing
+Ссылка на первый пример результатов https://drive.google.com/file/d/1v08HjQZdp-yLasWkEjQp3p21Pc_SFJvi/view?usp=sharing  
 Ссылка на второй пример результатов https://drive.google.com/file/d/1BVqs-RZNPuW-zkVLTz_hborfUqvrv5mX/view?usp=sharing
